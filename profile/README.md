@@ -8,11 +8,11 @@
 ---
 ### **<ins><p align="center">Liens Utiles :</p>**
 
-<p align="center">• 🪶 Site internet : <a href="https://oreziamc.fr" target="_blank">https://oreziamc.fr</a><br>
-• ⚙️ Support (Discord) : <a href="https://discord.oreziamc.fr" target="_blank">https://discord.oreziamc.fr</a><br>
-• 📖 WikOrezia (Wiki) : <a href="https://wiki.oreziamc.fr" target="_blank">https://wiki.oreziamc.fr</a><br>
-• 💎 Boutique : <a href="https://boutique.oreziamc.fr" target="_blank">https://boutique.oreziamc.fr</a><br>
-• 🗺️ DynMap : <a href="https://map.oreziamc.fr" target="_blank">https://map.oreziamc.fr</a></p>
+<p align="center">• 🪶 Site internet : <a href="https://oreziamc.fr">https://oreziamc.fr</a><br>
+• ⚙️ Support (Discord) : <a href="https://discord.oreziamc.fr">https://discord.oreziamc.fr</a><br>
+• 📖 WikOrezia (Wiki) : <a href="https://wiki.oreziamc.fr">https://wiki.oreziamc.fr</a><br>
+• 💎 Boutique : <a href="https://boutique.oreziamc.fr">https://boutique.oreziamc.fr</a><br>
+• 🗺️ DynMap : <a href="https://map.oreziamc.fr">https://map.oreziamc.fr</a></p>
 
 
 ---
