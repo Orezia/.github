@@ -1,5 +1,5 @@
 <ins><p align="center"><img style="height:200px" src="https://oreziamc.fr/img/logo.png"></p>
-<p align="center"><img alt="Discord" src="https://img.shields.io/discord/778624251833221120?style=for-the-badge&logo=discord&logoColor=white&labelColor=6A7EC2&color=7389D8"> <img alt="Static Badge" src="https://img.shields.io/badge/minecraft-1.21.1-blue?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=6aae3a&color=5a381e"></p>
+<p align="center"><img alt="Discord" src="https://img.shields.io/discord/778624251833221120?style=for-the-badge&logo=discord&logoColor=white&labelColor=6A7EC2&color=7389D8"> <img alt="Static Badge" src="https://img.shields.io/badge/minecraft-1.21.10-blue?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=6aae3a&color=5a381e"></p>
 <p  align="center"><img alt="Static Badge" src="https://img.shields.io/badge/semirp-2.9.2-blue?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=78b883&color=d9c0b1"></p>
 
 <p align="center"><b>Orezia</b> est un serveur <b>Semi-RP 1.21</b>, disponible sur <b>Java</b> et <b>Bedrock Edition</b> (PC/Console).</p>
